@@ -1,0 +1,60 @@
+:root {
+  --custom-blue: rgb(33, 109, 156);
+}
+.img-perfil {
+  width: 200px;
+}
+.custom-main h3 {
+  color: var(--custom-blue);
+}
+.custom-main p {
+  font-size: 20px;
+}
+.custom-main li {
+  font-size: 18px;
+}
+.custom-hr {
+  height: 20px;
+  opacity: 1;
+  background-color: var(--custom-blue);
+}
+.profession {
+  background-color: var(--custom-blue);
+  color: wheat;
+  font-weight: bold;
+  display: inline-block;
+}
+.custom-footer img {
+  width: 30px;
+  height: 30px;
+  filter: brightness(0%) invert(100%);
+}
+.custom-footer {
+  background-color: var(--custom-blue);
+  font-size: 20px;
+  font-weight: bold;
+}
+.custom-footer div {
+  margin: 5px 5px;
+  color: white;
+}
+.title {
+  font-size: 90px;
+}
+.container-about {
+  max-width: 500px;
+}
+.custom-footer p{margin: 0;
+
+}
+.btn-custom-blue{background-color: var(--custom-blue)!important;font-size: 20px !important;}
+.bg-custom-blue{background-color: var(--custom-blue);}
+
+
+.container-date {
+  width: 100px;
+  height: 100px;
+  color:var(--custom-blue);
+  background-color: white;
+  margin: 0 10px;}
+  
